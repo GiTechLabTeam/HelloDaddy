@@ -8,4 +8,5 @@ For very young babe, this App needs to do the following things:
 
 + Notice me to prepare milk;
 + Clean the babe in time;
-+ Suggestions for caring the babe.
++ Suggestions for caring the babe;
++ Info & Guide for caring the babe;
